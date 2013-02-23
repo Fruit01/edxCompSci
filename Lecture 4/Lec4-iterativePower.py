@@ -22,7 +22,3 @@ def iterativePower(x,p):
     return result
 
 iterativePower(2,5)
-
-
-        
-
